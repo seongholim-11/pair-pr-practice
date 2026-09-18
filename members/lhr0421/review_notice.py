@@ -9,7 +9,7 @@ def build_review_notice(author: str, title: str, url: str) -> str:
 
 
 def main() -> None:
-	parser = argparse.ArgumentParser(description="리뷰 요청 공지를 생성합니다.....")
+	parser = argparse.ArgumentParser(description="123efwef2efew")
 	parser.add_argument("author", help="PR 작성자")
 	parser.add_argument("title", help="PR 제목")
 	parser.add_argument("url", help="PR 주소")
